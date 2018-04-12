@@ -1,25 +1,19 @@
 {
   "name": "fis3-parser-markdown-vue",
-  "version": "1.0.0",
+  "version": "1.1.1",
   "description": "A parser for fis3 to compile markdown file to vue components.",
-  "author": {
-    "name": "stone-tan",
-    "email": "trxx@163.com",
-    "url": "https://github.com/imstone"
-  },
+  "author": "stone-tan <trxx@163.com> (https://github.com/imstone)",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git@github.com:imstone/fis3-parser-markdown-vue.git"
+    "url": "git+ssh://git@github.com/imstone/fis3-parser-markdown-vue.git"
   },
   "main": "index.js",
   "files": [
     "markdown",
     "vue"
   ],
-  "scripts": {
-
-  },
+  "scripts": {},
   "dependencies": {
     "marked": "^0.3.12",
     "prismjs": "^1.9.0"
@@ -28,5 +22,10 @@
     "markdown",
     "doc",
     "vue"
-  ]
+  ],
+  "bugs": {
+    "url": "https://github.com/imstone/fis3-parser-markdown-vue/issues"
+  },
+  "homepage": "https://github.com/imstone/fis3-parser-markdown-vue#readme",
+  "devDependencies": {}
 }
