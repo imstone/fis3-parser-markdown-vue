@@ -10,7 +10,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/QingWei-Li/docsify.git"
+    "url": "git@github.com:imstone/fis3-parser-markdown-vue.git"
   },
   "main": "index.js",
   "files": [
